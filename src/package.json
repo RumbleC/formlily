@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@alifd/next": "1.20.28",
+    "@formily-editor/extensions": "1.0.0-alpha.2",
+    "@formily-editor/schema-editor": "1.0.0-alpha.2",
+    "@formily/antd": "latest",
+    "@formily/next": "1.3.0",
+    "@formily/next-components": "1.3.0",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-monaco-editor": "0.39.1",
+    "styled-components": "5.1.1"
+  },
+  "keywords": [],
+  "name": "formlily-schema-editor",
+  "description": ""
+}
